@@ -1,0 +1,38 @@
+<svg width="480" height="270" viewBox="0 0 480 270" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </linearGradient>
+    <linearGradient id="cardGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </linearGradient>
+    <style>
+      .subtitle { font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #6b7280; font-size: 11px; }
+      .label { font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #9ca3af; font-size: 12px; }
+      .value { font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #f9fafb; font-size: 20px; font-weight: 600; }
+      .source { font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #6b7280; font-size: 11px; }
+      .header { font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #9ca3af; font-size: 14px; }
+    </style>
+  </defs>
+  <rect x="0" y="0" width="480" height="270" fill="url(#bgGradient)" rx="16"/>
+  <g transform="translate(20, 20)"><image href="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTM0IiBoZWlnaHQ9IjQ4IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxwYXRoIGZpbGw9IiNlMzA0MmUiIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMTI5LjggMTUuMzU5SDEzNFYwLjAwMDkzODQxNkgxMjkuOFYxNS4zNTlaIiAvPgogIDxwYXRoIGZpbGw9IndoaXRlIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTExMS41MTggMzkuOTQxVjM1LjY3NTRDMTExLjUxOCAyOS45ODYgMTEzLjg1IDI3LjQ4MiAxMTkuMTgyIDI3LjQ4MkgxMjEuNDVWMjAuMDMxQzEyMS40NSAxNi43ODE0IDEyMC45MTYgMTUuMzU5IDExOC43ODIgMTUuMzU5QzExNi42NSAxNS4zNTkgMTE2LjExNiAxNi44NDg2IDExNi4xMTYgMjAuMDk5OFYyMi4xMzk3SDExMi4wNTJWMjAuMDk5OEMxMTIuMDUyIDE0LjY4MjMgMTE0LjA1IDExLjc3MDMgMTE4Ljc4MiAxMS43NzAzQzEyMy45MTYgMTEuNzcwMyAxMjUuNTgyIDE0Ljc0OTUgMTI1LjU4MiAyMC4wMzFWNDcuNTkzNkgxMjEuNDVWNDQuOTUyMUMxMjAuODUgNDYuNTEwNCAxMTkuNzgyIDQ4IDExNi45ODQgNDhDMTEzLjE4NCA0OCAxMTEuNTE4IDQ1LjU2MTYgMTExLjUxOCAzOS45NDFaTTEyMS40NSA0MC4xNDQyVjMwLjUyODNIMTE5LjM4MkMxMTYuNjUgMzAuNTI4MyAxMTUuNjUgMzIuMzU3MSAxMTUuNjUgMzUuNzQyNlYzOS45NDFDMTE1LjY1IDQzLjczNDUgMTE2LjQ1IDQ0Ljc1MDUgMTE4LjM4NCA0NC43NTA1QzEyMC4zODIgNDQuNzUwNSAxMjEuNDUgNDMuNDYyNSAxMjEuNDUgNDAuMTQ0MloiIC8+CiAgPHBhdGggZmlsbD0id2hpdGUiIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNODQuOTIyMSAxMi4xNzYySDg5LjA1NTZWMTUuNDI3NEM4OS43ODc5IDEzLjMyODIgOTEuMTg3NyAxMS43Njk5IDkzLjg1MzcgMTEuNzY5OUM5Ni4zODU3IDExLjc2OTkgOTcuNzg1NiAxMi45MjE4IDk4LjQ1MzMgMTUuNTYxOEM5OS4zODU1IDEzLjEyNSAxMDEuMDUxIDExLjc2OTkgMTAzLjcxNyAxMS43Njk5QzEwNy4yNTEgMTEuNzY5OSAxMDguNzgzIDE0LjIwODIgMTA4Ljc4MyAxOS40ODk3VjQ3LjU5NDdIMTA0LjcxN1YxOS41NTg1QzEwNC43MTcgMTYuNjQ1IDEwNC4xODQgMTUuMzU4NiAxMDIuMTg1IDE1LjM1ODZDOTkuOTE3NyAxNS4zNTg2IDk4LjkxOTQgMTYuOTg0MSA5OC45MTk0IDE5Ljg5NjFWNDcuNTk0N0g5NC43ODU5VjE5LjU1ODVDOTQuNzg1OSAxNi41Nzc4IDk0LjI1MzYgMTUuMzU4NiA5Mi4yNTM4IDE1LjM1ODZDODkuOTg3OCAxNS4zNTg2IDg5LjA1NTYgMTcuMDUyOSA4OS4wNTU2IDE5Ljg5NjFWNDcuNTk0N0g4NC45MjIxVjEyLjE3NjJaIiAvPgogIDxwYXRoIGZpbGw9IndoaXRlIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTY3LjU2OTIgMzkuOTQxVjM1LjY3NTRDNjcuNTY5MiAyOS45ODYgNjkuOTAxMyAyNy40ODIgNzUuMjMzMiAyNy40ODJINzcuNTAwN1YyMC4wMzFDNzcuNTAwNyAxNi43ODE0IDc2Ljk2NjkgMTUuMzU5IDc0LjgzMzIgMTUuMzU5QzcyLjcwMTEgMTUuMzU5IDcyLjE2NzMgMTYuODQ4NiA3Mi4xNjczIDIwLjA5OThWMjIuMTM5N0g2OC4xMDNWMjAuMDk5OEM2OC4xMDMgMTQuNjgyMyA3MC4xMDEzIDExLjc3MDMgNzQuODMzMiAxMS43NzAzQzc5Ljk2NjYgMTEuNzcwMyA4MS42MzI2IDE0Ljc0OTUgODEuNjMyNiAyMC4wMzFWNDcuNTkzNkg3Ny41MDA3VjQ0Ljk1MjFDNzYuOTAwNyA0Ni41MTA0IDc1LjgzMzEgNDggNzMuMDM0OSA0OEM2OS4yMzUyIDQ4IDY3LjU2OTIgNDUuNTYxNiA2Ny41NjkyIDM5Ljk0MVpNNzcuNTAwNyA0MC4xNDQyVjMwLjUyODNINzUuNDMzMUM3Mi43MDExIDMwLjUyODMgNzEuNzAxMiAzMi4zNTcxIDcxLjcwMTIgMzUuNzQyNlYzOS45NDFDNzEuNzAxMiA0My43MzQ1IDcyLjUwMTEgNDQuNzUwNSA3NC40MzQ4IDQ0Ljc1MDVDNzYuNDMzMSA0NC43NTA1IDc3LjUwMDcgNDMuNDYyNSA3Ny41MDA3IDQwLjE0NDJaIiAvPgogIDxwYXRoIGZpbGw9IndoaXRlIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTU2LjczNTUgMTIuMTc2SDYwLjg2NzRWMTUuNzY2M0M2MS44NjczIDEzLjEyNDggNjMuNjY3MiAxMi4wNDE2IDY2LjY2NjkgMTEuOTcyOFYxNS45MDA3QzYyLjg2NzMgMTYuMTAzOSA2MC44Njc0IDE3LjI1NDMgNjAuODY3NCAyMC45MTE4VjQ3LjU5NDVINTYuNzM1NVYxMi4xNzZaIiAvPgogIDxwYXRoIGZpbGw9IndoaXRlIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTM4Ljk4ODkgMzkuMzMwOVYyMC41MDU3QzM4Ljk4ODkgMTQuNTQ1OCA0MS44NTQ4IDExLjc2OTggNDYuMzIwNiAxMS43Njk4QzUwLjkxODYgMTEuNzY5OCA1My40NTIzIDE0LjEzOTQgNTMuNDUyMyAyMC40Mzg1VjMwLjM5MTlINDMuMTIwOFYzOS4zMzA5QzQzLjEyMDggNDIuODUyNCA0My45ODg1IDQ0LjU0NTIgNDYuMzIwNiA0NC41NDUyQzQ4LjU4NjUgNDQuNTQ1MiA0OS4zODY1IDQyLjk4ODQgNDkuMzg2NSAzOS41MzQxVjM2Ljc1NDlINTMuNDUyM1YzOS4zOTgxQzUzLjQ1MjMgNDUuOTY5MiA1MS4wNTI1IDQ3Ljk5OTUgNDYuMzIwNiA0Ny45OTk1QzQxLjg1NDggNDcuOTk5NSAzOC45ODg5IDQ1LjM1OTYgMzguOTg4OSAzOS4zMzA5Wk00My4xMjA4IDI3LjA3MzVINDkuMjUyNlYyMC40Mzg1QzQ5LjI1MjYgMTYuNTc3NyA0OC41MjA0IDE1LjIyNDIgNDYuMzIwNiAxNS4yMjQyQzQzLjg1NDYgMTUuMjI0MiA0My4xMjA4IDE3LjA1MTMgNDMuMTIwOCAyMC41MDU3VjI3LjA3MzVaTTQ0LjQ4NzcgOC41MjAzTDQ2LjUyMDYgMC4wMDA0NjkyMDhINTEuNTE4Nkw0Ny43MDc5IDguNTIwM0g0NC40ODc3WiIgLz4KICA8cGF0aCBmaWxsPSJ3aGl0ZSIgZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0zMS41MDkzIDQ3LjU5MzZIMzUuNzA5VjAuMDAwOTM4NDE2SDMxLjUwOTNWNDcuNTkzNloiIC8+CiAgPHBhdGggZmlsbD0id2hpdGUiIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMTMuNzYyNiAzOS4zMzA5VjIwLjUwNTdDMTMuNzYyNiAxNC41NDU4IDE2LjYyODUgMTEuNzY5OCAyMS4wOTQzIDExLjc2OThDMjUuNjkyNCAxMS43Njk4IDI4LjIyNiAxNC4xMzk0IDI4LjIyNiAyMC40Mzg1VjMwLjM5MTlIMTcuODk0NlYzOS4zMzA5QzE3Ljg5NDYgNDIuODUyNCAxOC43NjA2IDQ0LjU0NTIgMjEuMDk0MyA0NC41NDUyQzIzLjM2MDMgNDQuNTQ1MiAyNC4xNjAyIDQyLjk4ODQgMjQuMTYwMiAzOS41MzQxVjM2Ljc1NDlIMjguMjI2VjM5LjM5ODFDMjguMjI2IDQ1Ljk2OTIgMjUuODI2MiA0Ny45OTk1IDIxLjA5NDMgNDcuOTk5NUMxNi42Mjg1IDQ3Ljk5OTUgMTMuNzYyNiA0NS4zNTk2IDEzLjc2MjYgMzkuMzMwOVpNMTcuODk0NiAyNy4wNzM1SDI0LjAyNjRWMjAuNDM4NUMyNC4wMjY0IDE2LjU3NzcgMjMuMjk0MSAxNS4yMjQyIDIxLjA5NDMgMTUuMjI0MkMxOC42Mjg0IDE1LjIyNDIgMTcuODk0NiAxNy4wNTEzIDE3Ljg5NDYgMjAuNTA1N1YyNy4wNzM1Wk0xOS4yNjE0IDguNTIwM0wyMS4yOTQzIDAuMDAwNDY5MjA4SDI2LjI5MjNMMjIuNDgxNiA4LjUyMDNIMTkuMjYxNFoiIC8+CiAgPHBhdGggZmlsbD0id2hpdGUiIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMCAwVjMuNjM2NzNINi4yOTcxMlY0Ny41OTI2SDEwLjQ5NjhWMy42MzY3M0gxNi43OTIzVjBIMFoiIC8+Cjwvc3ZnPg==" width="140" height="50"/></g>
+  <g transform="translate(20, 100)"><text x="0" y="0" class="header" font-size="14">https://telerama.fr</text></g>
+  <g transform="translate(20, 120)">
+    <g>
+      <rect width="210" height="70" rx="12" fill="url(#cardGradient)" stroke="#1f2937"/>
+      <text x="15" y="30" class="value">10 millions</text>
+      <text x="15" y="50" class="label">de visiteurs mensuels</text>
+    </g>
+    <g transform="translate(230, 0)">
+      <rect width="210" height="70" rx="12" fill="url(#cardGradient)" stroke="#1f2937"/>
+      <text x="15" y="30" class="value">21 millions</text>
+      <text x="15" y="50" class="label">de pages vues par mois</text>
+    </g>
+  </g>
+  <g transform="translate(0, 200)">
+    <text x="240" y="30" class="source" text-anchor="middle">Source ACPM: classement des sites et applications d'information générale.</text>
+    <text x="240" y="44" class="source" text-anchor="middle">Moyenne des 12 derniers mois. Dernière mise à jour: mai 2026</text>
+  </g>
+</svg>

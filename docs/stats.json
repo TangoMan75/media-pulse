@@ -1,0 +1,337 @@
+[
+  {
+    "id": "lemonde",
+    "url": "https://www.acpm.fr/les-membres/support/209788754-1-1/lemonde-fr",
+    "lastUpdated": "2026-05-05T00:00:00.000Z",
+    "metrics": [
+      {
+        "period": "2026-03",
+        "visits": 214316867,
+        "pages": 556432131
+      },
+      {
+        "period": "2026-02",
+        "visits": 145462738,
+        "pages": 358013047
+      },
+      {
+        "period": "2026-01",
+        "visits": 168334764,
+        "pages": 419646747
+      },
+      {
+        "period": "2025-12",
+        "visits": 130354346,
+        "pages": 338521421
+      },
+      {
+        "period": "2025-11",
+        "visits": 111285122,
+        "pages": 320995035
+      },
+      {
+        "period": "2025-10",
+        "visits": 143160198,
+        "pages": 395776082
+      },
+      {
+        "period": "2025-09",
+        "visits": 132759770,
+        "pages": 378332825
+      },
+      {
+        "period": "2025-08",
+        "visits": 123485879,
+        "pages": 309524383
+      },
+      {
+        "period": "2025-07",
+        "visits": 122733242,
+        "pages": 329645686
+      },
+      {
+        "period": "2025-06",
+        "visits": 129389140,
+        "pages": 361746886
+      },
+      {
+        "period": "2025-05",
+        "visits": 123253750,
+        "pages": 348565112
+      },
+      {
+        "period": "2025-04",
+        "visits": 130420025,
+        "pages": 372974242
+      }
+    ]
+  },
+  {
+    "id": "obs",
+    "url": "https://www.acpm.fr/les-membres/support/2195865741-1-1/nouvelobs-com",
+    "lastUpdated": "2026-05-05T00:00:00.000Z",
+    "metrics": [
+      {
+        "period": "2026-03",
+        "visits": 15039812,
+        "pages": 36080426
+      },
+      {
+        "period": "2026-02",
+        "visits": 15086002,
+        "pages": 36009356
+      },
+      {
+        "period": "2026-01",
+        "visits": 17122319,
+        "pages": 40869345
+      },
+      {
+        "period": "2025-12",
+        "visits": 17629785,
+        "pages": 40624615
+      },
+      {
+        "period": "2025-11",
+        "visits": 17152666,
+        "pages": 40206183
+      },
+      {
+        "period": "2025-10",
+        "visits": 20086265,
+        "pages": 43481857
+      },
+      {
+        "period": "2025-09",
+        "visits": 16028054,
+        "pages": 37671525
+      },
+      {
+        "period": "2025-08",
+        "visits": 13774494,
+        "pages": 32222166
+      },
+      {
+        "period": "2025-07",
+        "visits": 13485089,
+        "pages": 31761362
+      },
+      {
+        "period": "2025-06",
+        "visits": 13676833,
+        "pages": 32742797
+      },
+      {
+        "period": "2025-05",
+        "visits": 14171552,
+        "pages": 33833495
+      },
+      {
+        "period": "2025-04",
+        "visits": 12359465,
+        "pages": 31256765
+      }
+    ]
+  },
+  {
+    "id": "telerama",
+    "url": "https://www.acpm.fr/les-membres/support/2760865027-1-1/telerama-fr",
+    "lastUpdated": "2026-05-05T00:00:00.000Z",
+    "metrics": [
+      {
+        "period": "2026-03",
+        "visits": 12819881,
+        "pages": 24110307
+      },
+      {
+        "period": "2026-02",
+        "visits": 12378546,
+        "pages": 23172625
+      },
+      {
+        "period": "2026-01",
+        "visits": 13191269,
+        "pages": 25607458
+      },
+      {
+        "period": "2025-12",
+        "visits": 11897570,
+        "pages": 23113638
+      },
+      {
+        "period": "2025-11",
+        "visits": 11545862,
+        "pages": 22651098
+      },
+      {
+        "period": "2025-10",
+        "visits": 11495893,
+        "pages": 22608404
+      },
+      {
+        "period": "2025-09",
+        "visits": 10986021,
+        "pages": 21448437
+      },
+      {
+        "period": "2025-08",
+        "visits": 8695770,
+        "pages": 17508983
+      },
+      {
+        "period": "2025-07",
+        "visits": 8701186,
+        "pages": 17591673
+      },
+      {
+        "period": "2025-06",
+        "visits": 8841068,
+        "pages": 18448498
+      },
+      {
+        "period": "2025-05",
+        "visits": 9881987,
+        "pages": 20258156
+      },
+      {
+        "period": "2025-04",
+        "visits": 9285265,
+        "pages": 19058844
+      }
+    ]
+  },
+  {
+    "id": "courrier",
+    "url": "https://www.acpm.fr/les-membres/support/66163995-1-1/courrierinternational-com",
+    "lastUpdated": "2026-05-05T00:00:00.000Z",
+    "metrics": [
+      {
+        "period": "2026-03",
+        "visits": 14852448,
+        "pages": 22475761
+      },
+      {
+        "period": "2026-02",
+        "visits": 12839670,
+        "pages": 18984018
+      },
+      {
+        "period": "2026-01",
+        "visits": 11954877,
+        "pages": 18524109
+      },
+      {
+        "period": "2025-12",
+        "visits": 11030219,
+        "pages": 16850499
+      },
+      {
+        "period": "2025-11",
+        "visits": 7056730,
+        "pages": 12186479
+      },
+      {
+        "period": "2025-10",
+        "visits": 7812796,
+        "pages": 13473968
+      },
+      {
+        "period": "2025-09",
+        "visits": 8334509,
+        "pages": 14149503
+      },
+      {
+        "period": "2025-08",
+        "visits": 8274571,
+        "pages": 13654025
+      },
+      {
+        "period": "2025-07",
+        "visits": 7056771,
+        "pages": 12201579
+      },
+      {
+        "period": "2025-06",
+        "visits": 7252787,
+        "pages": 12486969
+      },
+      {
+        "period": "2025-05",
+        "visits": 7423100,
+        "pages": 12809862
+      },
+      {
+        "period": "2025-04",
+        "visits": 8216312,
+        "pages": 13928218
+      }
+    ]
+  },
+  {
+    "id": "diplo",
+    "url": "https://www.acpm.fr/les-membres/support/2826009072-1-1/monde-diplomatique-fr",
+    "lastUpdated": "2026-05-05T00:00:00.000Z",
+    "metrics": [
+      {
+        "period": "2026-03",
+        "visits": 698086,
+        "pages": 1284864
+      },
+      {
+        "period": "2026-02",
+        "visits": 544310,
+        "pages": 1033294
+      },
+      {
+        "period": "2026-01",
+        "visits": 687019,
+        "pages": 1352457
+      },
+      {
+        "period": "2025-12",
+        "visits": 596040,
+        "pages": 1143993
+      },
+      {
+        "period": "2025-11",
+        "visits": 576912,
+        "pages": 1137771
+      },
+      {
+        "period": "2025-10",
+        "visits": 622091,
+        "pages": 1224392
+      },
+      {
+        "period": "2025-09",
+        "visits": 571171,
+        "pages": 1098264
+      },
+      {
+        "period": "2025-08",
+        "visits": 510751,
+        "pages": 1010462
+      },
+      {
+        "period": "2025-07",
+        "visits": 482421,
+        "pages": 953084
+      },
+      {
+        "period": "2025-06",
+        "visits": 581537,
+        "pages": 1057094
+      },
+      {
+        "period": "2025-05",
+        "visits": 575488,
+        "pages": 1063862
+      },
+      {
+        "period": "2025-04",
+        "visits": 546376,
+        "pages": 1043229
+      }
+    ]
+  }
+]

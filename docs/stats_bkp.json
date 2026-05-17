@@ -1,0 +1,387 @@
+[
+  {
+    "id": "20minutes",
+    "url": "https://www.acpm.fr/Support-Numerique/site/20minutes-fr",
+    "lastUpdated": "2026-01-01T00:00:00.000Z",
+    "metrics": [
+      {
+        "period": "2026-03",
+        "visits": 121710131,
+        "pages": 252742947
+      },
+      {
+        "period": "2026-01",
+        "visits": 110316395,
+        "pages": 225548539
+      },
+      {
+        "period": "2025-12",
+        "visits": 96825526,
+        "pages": 201908592
+      },
+      {
+        "period": "2025-11",
+        "visits": 94050509,
+        "pages": 196304623
+      },
+      {
+        "period": "2025-10",
+        "visits": 108817903,
+        "pages": 226199705
+      },
+      {
+        "period": "2025-09",
+        "visits": 103715694,
+        "pages": 204934501
+      },
+      {
+        "period": "2025-08",
+        "visits": 94186906,
+        "pages": 168902222
+      },
+      {
+        "period": "2025-07",
+        "visits": 92117991,
+        "pages": 174646939
+      },
+      {
+        "period": "2025-06",
+        "visits": 79305922,
+        "pages": 155623255
+      },
+      {
+        "period": "2025-05",
+        "visits": 79392415,
+        "pages": 145288293
+      },
+      {
+        "period": "2025-04",
+        "visits": 70475160,
+        "pages": 131906872
+      },
+      {
+        "period": "2025-03",
+        "visits": 84291388,
+        "pages": 158606027
+      },
+      {
+        "period": "2025-02",
+        "visits": 74174457,
+        "pages": 138199640
+      },
+      {
+        "period": "2025-01",
+        "visits": 91305511,
+        "pages": 170490050
+      }
+    ]
+  },
+  {
+    "id": "l-equipe",
+    "url": "https://www.acpm.fr/Support-Numerique/site/l-equipe-fr",
+    "lastUpdated": "2026-01-01T00:00:00.000Z",
+    "metrics": [
+      {
+        "period": "2026-03",
+        "visits": 87723806,
+        "pages": 393126037
+      },
+      {
+        "period": "2024-06",
+        "visits": 82714933,
+        "pages": 382829473
+      },
+      {
+        "period": "2024-05",
+        "visits": 71452590,
+        "pages": 385265869
+      },
+      {
+        "period": "2024-04",
+        "visits": 66621344,
+        "pages": 382290405
+      },
+      {
+        "period": "2024-03",
+        "visits": 70934063,
+        "pages": 384915052
+      },
+      {
+        "period": "2024-02",
+        "visits": 68643462,
+        "pages": 374225377
+      },
+      {
+        "period": "2024-01",
+        "visits": 82157852,
+        "pages": 397965028
+      },
+      {
+        "period": "2023-12",
+        "visits": 65595362,
+        "pages": 339880996
+      },
+      {
+        "period": "2023-11",
+        "visits": 70691057,
+        "pages": 351536427
+      },
+      {
+        "period": "2023-10",
+        "visits": 89733741,
+        "pages": 420946037
+      },
+      {
+        "period": "2023-09",
+        "visits": 92308569,
+        "pages": 446588723
+      },
+      {
+        "period": "2023-08",
+        "visits": 83347874,
+        "pages": 389760606
+      },
+      {
+        "period": "2023-07",
+        "visits": 77840044,
+        "pages": 341779136
+      },
+      {
+        "period": "2023-06",
+        "visits": 75110090,
+        "pages": 327496477
+      }
+    ]
+  },
+  {
+    "id": "lefigaro",
+    "url": "https://www.acpm.fr/Support-Numerique/site/lefigaro-fr",
+    "lastUpdated": "2026-01-01T00:00:00.000Z",
+    "metrics": [
+      {
+        "period": "2026-03",
+        "visits": 211101014,
+        "pages": 431842384
+      },
+      {
+        "period": "2026-01",
+        "visits": 211915528,
+        "pages": 434232502
+      },
+      {
+        "period": "2025-12",
+        "visits": 201463082,
+        "pages": 391102393
+      },
+      {
+        "period": "2025-11",
+        "visits": 172037028,
+        "pages": 342734512
+      },
+      {
+        "period": "2025-10",
+        "visits": 196903189,
+        "pages": 393868253
+      },
+      {
+        "period": "2025-09",
+        "visits": 169579243,
+        "pages": 332346690
+      },
+      {
+        "period": "2025-08",
+        "visits": 143340215,
+        "pages": 271414378
+      },
+      {
+        "period": "2025-07",
+        "visits": 169624658,
+        "pages": 321269980
+      },
+      {
+        "period": "2025-06",
+        "visits": 169372871,
+        "pages": 324760724
+      },
+      {
+        "period": "2025-05",
+        "visits": 166367376,
+        "pages": 330970370
+      },
+      {
+        "period": "2025-04",
+        "visits": 151432248,
+        "pages": 289506243
+      },
+      {
+        "period": "2025-03",
+        "visits": 170833454,
+        "pages": 326369729
+      },
+      {
+        "period": "2025-02",
+        "visits": 151734124,
+        "pages": 295297301
+      },
+      {
+        "period": "2025-01",
+        "visits": 169433586,
+        "pages": 325536387
+      }
+    ]
+  },
+  {
+    "id": "leparisien",
+    "url": "https://www.acpm.fr/Support-Numerique/site/leparisien-fr",
+    "lastUpdated": "2026-01-01T00:00:00.000Z",
+    "metrics": [
+      {
+        "period": "2026-03",
+        "visits": 87046252,
+        "pages": 139329377
+      },
+      {
+        "period": "2021-08",
+        "visits": 83711175,
+        "pages": 125624424
+      },
+      {
+        "period": "2021-07",
+        "visits": 87106591,
+        "pages": 137538214
+      },
+      {
+        "period": "2021-06",
+        "visits": 88041350,
+        "pages": 136874742
+      },
+      {
+        "period": "2021-05",
+        "visits": 80523781,
+        "pages": 121271114
+      },
+      {
+        "period": "2021-04",
+        "visits": 85785273,
+        "pages": 127005497
+      },
+      {
+        "period": "2021-03",
+        "visits": 90884243,
+        "pages": 138903604
+      },
+      {
+        "period": "2021-02",
+        "visits": 77928794,
+        "pages": 119291660
+      },
+      {
+        "period": "2021-01",
+        "visits": 97601961,
+        "pages": 145515122
+      },
+      {
+        "period": "2020-12",
+        "visits": 93362617,
+        "pages": 137255553
+      },
+      {
+        "period": "2020-11",
+        "visits": 98441785,
+        "pages": 147117913
+      },
+      {
+        "period": "2020-10",
+        "visits": 104060450,
+        "pages": 153914708
+      },
+      {
+        "period": "2020-09",
+        "visits": 93892564,
+        "pages": 139652321
+      },
+      {
+        "period": "2020-08",
+        "visits": 88705400,
+        "pages": 129749085
+      }
+    ]
+  },
+  {
+    "id": "ouest-france",
+    "url": "https://www.acpm.fr/Support-Numerique/site/ouest-france-fr",
+    "lastUpdated": "2026-01-01T00:00:00.000Z",
+    "metrics": [
+      {
+        "period": "2026-03",
+        "visits": 235842428,
+        "pages": 503279325
+      },
+      {
+        "period": "2025-09",
+        "visits": 193521182,
+        "pages": 430859952
+      },
+      {
+        "period": "2025-08",
+        "visits": 199202734,
+        "pages": 440204839
+      },
+      {
+        "period": "2025-07",
+        "visits": 191223211,
+        "pages": 425499175
+      },
+      {
+        "period": "2025-06",
+        "visits": 174133826,
+        "pages": 396549607
+      },
+      {
+        "period": "2025-05",
+        "visits": 181193726,
+        "pages": 415267409
+      },
+      {
+        "period": "2025-04",
+        "visits": 180179767,
+        "pages": 423299856
+      },
+      {
+        "period": "2025-03",
+        "visits": 182359480,
+        "pages": 440477350
+      },
+      {
+        "period": "2025-02",
+        "visits": 154846488,
+        "pages": 389230768
+      },
+      {
+        "period": "2025-01",
+        "visits": 179255388,
+        "pages": 436994985
+      },
+      {
+        "period": "2024-12",
+        "visits": 163621928,
+        "pages": 394268984
+      },
+      {
+        "period": "2024-11",
+        "visits": 168766235,
+        "pages": 405561509
+      },
+      {
+        "period": "2024-10",
+        "visits": 169677104,
+        "pages": 415625722
+      },
+      {
+        "period": "2024-09",
+        "visits": 156726758,
+        "pages": 370844378
+      }
+    ]
+  }
+]

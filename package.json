@@ -1,0 +1,25 @@
+{
+  "name": "media-pulse",
+  "version": "0.1.0",
+  "description": "Monthly ACPM traffic data scraper for French media sites",
+  "main": "media-pulse.js",
+  "type": "module",
+  "scripts": {
+    "scrape": "node media-pulse.js",
+    "build": "node media-pulse.js build",
+    "test": "node --test test/**/*.test.js",
+    "lint": "node --check media-pulse.js"
+  },
+  "keywords": [
+    "acpm",
+    "analytics",
+    "media",
+    "pulse",
+    "scraper",
+    "svg"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "jsdom": "^29.0.2"
+  }
+}
