@@ -1,0 +1,37 @@
+<svg width="480" height="270" viewBox="0 0 480 270" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="100%" stop-color="#e2e8f0"/>
+    </linearGradient>
+    <linearGradient id="cardGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#f1f5f9"/>
+    </linearGradient>
+    <style>
+      .header { font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #475569; font-size: 14px; }
+      .value { font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #0f172a; font-size: 20px; font-weight: 600; }
+      .label { font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #64748b; font-size: 12px; }
+      .footer { font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #94a3b8; font-size: 11px; }
+    </style>
+  </defs>
+  <rect x="0" y="0" width="480" height="270" fill="url(#bgGradient)" rx="16"/>
+  <g transform="translate(20, 20)"><image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxOTIgNjAiPgogIDxnIHN0eWxlPSJmaWxsLXJ1bGU6ZXZlbm9kZDsgY2xpcC1ydWxlOmV2ZW5vZGQ7Ij4KICAgIDxyZWN0IGZpbGw9IiNGRkZGRkYiIHdpZHRoPSIxOTIiIGhlaWdodD0iNjAiLz4KICAgIDxyZWN0IGZpbGw9IiMxRUEwRTYiIHdpZHRoPSIxOTIiIGhlaWdodD0iNTQiLz4KICAgIDxyZWN0IGZpbGw9IiNGMDMzMzMiIHk9IjU2IiB3aWR0aD0iMTkyIiBoZWlnaHQ9IjQiLz4KICA8L2c+CiAgPGcgZmlsbD0iI0ZGRkZGRiI+CiAgICA8cG9seWdvbiBwb2ludHM9IjM1LDUyIDIxLDUyIDIxLDE5IDI3LDE5IDI3LDQ4IDM1LDQ4IDM1LDUyIi8+CiAgICA8cGF0aCBkPSJNNDguMywzMy4yYzAsNi41LTYuMSw5LjQtOC43LDkuNmMwLjMsMy44LDIsNS4zLDMuOCw1LjNjMC43LDAsMS4yLDAsMS43LTAuMXYzLjljLTAuNSwwLjEtMS4zLDAuMi0yLjEsMC4yYy0zLjksMC05LjEtMi4yLTkuMS0xMy4zYzAtMTEuNSw0LjgtMTMuMiw3LjktMTMuMkM0NC42LDI1LjcsNDguMywyNy43LDQ4LjMsMzMuMkw0OC4zLDMzLjJ6TTQzLjIsMzIuOWMwLTIuNC0wLjYtMy4zLTEuNS0zLjNjLTEuMywwLTIuNCwxLjUtMi40LDcuOWMwLDAuNSwwLDAuOSwwLjEsMS4zQzQwLjksMzguNiw0My4yLDM2LjQsNDMuMiwzMi45TDQzLjIsMzIuOXoiLz4KICAgIDxwYXRoIGQ9Ik03My44LDIwLjdjMCwxMi05LjgsMTYuMi0xMi44LDE2LjhWNTJoLTdWN2g1LjlDNjcuMSw3LDczLjgsMTAuNSw3My44LDIwLjdMNzMuOCwyMC43eiBNNjYuNywyMC43YzAtNi44LTIuNy04LjYtNS43LTguNnYxOS43QzYzLDMxLjYsNjYuNywyOC44LDY2LjcsMjAuN0w2Ni43LDIwLjd6Ii8+CiAgICA8cGF0aCBkPSJNODgsNTJoLTZ2LTJsLTEuOCwyYy0wLjQsMC4xLTAuNiwwLjEtMC44LDAuMWMtNCwwLTcuNi00LjEtNy42LTkuOGMwLTkuMyw3LjgtMTIuNiwxMC4zLTEzdi0wLjZjMC0xLjctMS0yLjUtMi43LTIuNWMtMS42LDAtMi42LDAuMi00LDAuNWwwLjEtNC42YzAsMCwxLjUtMC41LDQuMy0wLjVjNC44LDAsOC4zLDIuMSw4LjMsOC43VjUyTDg4LDUyeiBNODIsNDUuN1YzNC4xYy0xLDAuMS00LjEsMi43LTQuMSw4LjNjMCwzLjYsMS4yLDUsMi4zLDVDODEuMSw0Ny40LDgyLDQ2LjQsODIsNDUuN0w4Miw0NS43eiIvPgogICAgPHBhdGggZD0iTTEwMiwyN0wxMDIsMjdjLTMuMSwwLTUsMi41LTUsNnYxOWgtNlYyMi4zbDUtMC4zdjIuNGMxLTAuOCwyLjUtMi4zLDUuNS0yLjNoMC41VjI3TDEwMiwyN3oiLz4KICAgIDxwYXRoIGQ9Ik0xMDQsMTl2LTZoNnY2SDEwNHogTTExMCw1MlYyMmgtNnYzMEgxMTBMMTEwLDUyeiIvPgogICAgPHBhdGggZD0iTTEyNi45LDQzLjRjMCw1LjItNC41LDguNy05LjgsOC43Yy0yLjMsMC00LjItMC4zLTUuOC0xbDIuNS00LjVjMC45LDAuNCwxLjcsMC41LDIuNywwLjVjMiwwLDMuNi0xLjMsMy42LTMuMWMwLTIuMS0wLjgtMy42LTMuMS02LjNjLTQtMy44LTUtNS42LTUtOC43YzAtNC4yLDMuOC03LjUsOC42LTcuNWMyLjIsMCwzLjcsMC40LDUsMC45bC0yLjMsNC4yYy0wLjYtMC4zLTEuMy0wLjQtMi40LTAuNGMtMS40LDAtMi42LDEtMi42LDIuM2MwLDEuMiwwLjUsMi4zLDMuMSw0LjdDMTI1LjEsMzYuNywxMjYuOSwzOS4yLDEyNi45LDQzLjRMMTI2LjksNDMuNHoiLz4KICAgIDxwYXRoIGQ9Ik0xMjgsMTl2LTZoNnY2SDEyOHogTTEzNCw1MlYyMmgtNnYzMEgxMzRMMTM0LDUyeiIvPgogICAgPHBhdGggZD0iTTE1Mi41LDMwLjNjMCw3LjUtNy4xLDEwLjgtMTAuMSwxMS4xYzAuMyw0LjQsMS45LDYuMSw0LDYuMWMwLjgsMCwxLjUsMCwxLjUtMC4xdjQuNWMwLDAuMS0xLjEsMC4yLTIuMSwwLjJjLTQuNSwwLTEwLjMtMi41LTEwLjMtMTUuM2MwLTEzLjMsNS42LTE1LjIsOS4yLTE1LjJDMTQ4LjIsMjEuNywxNTIuNSwyNCwxNTIuNSwzMC4zTDE1Mi41LDMwLjN6TTE0Ni42LDI5LjljMC0yLjctMC42LTMuOC0xLjgtMy44Yy0xLjUsMC0yLjcsMS43LTIuNyw5LjFjMCwwLjYsMCwxLDAuMSwxLjRDMTQ0LDM2LjYsMTQ2LjYsMzQsMTQ2LjYsMjkuOUwxNDYuNiwyOS45eiIvPgogICAgPHBhdGggZD0iTTE3MSw1MmgtNlYzMC41YzAtMi4xLTEtMy45LTIuNS0zLjljLTEuNSwwLTIuNSwxLjgtMi41LDMuOVY1MmgtNlYyMmg1djEuNWwyLjItMS44YzAuMy0wLjEsMC41LTAuMSwxLjEtMC4xYzUuNCwwLDguOCwzLjMsOC44LDEwLjRWNTJMMTcxLDUyeiIvPgogIDwvZz4KPC9zdmc+" width="160" height="50"/></g>
+  <g transform="translate(20, 100)"><text x="0" y="0" class="header">https://www.leparisien.fr</text></g>
+  <g transform="translate(20, 120)">
+    <g>
+      <rect width="210" height="70" rx="12" fill="url(#cardGradient)" stroke="#e2e8f0"/>
+      <text x="15" y="30" class="value">61 millions</text>
+      <text x="15" y="50" class="label">de visiteurs mensuels</text>
+    </g>
+    <g transform="translate(230, 0)">
+      <rect width="210" height="70" rx="12" fill="url(#cardGradient)" stroke="#e2e8f0"/>
+      <text x="15" y="30" class="value">99 millions</text>
+      <text x="15" y="50" class="label">de pages vues par mois</text>
+    </g>
+  </g>
+  <g transform="translate(0, 200)">
+    <text x="240" y="30" class="footer" text-anchor="middle">Source ACPM: classement des sites et applications d'information générale.</text>
+    <text x="240" y="44" class="footer" text-anchor="middle">Moyenne pour juin 2026. Mise à jour: juillet 2026</text>
+  </g>
+</svg>

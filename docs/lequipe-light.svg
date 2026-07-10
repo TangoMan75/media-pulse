@@ -1,0 +1,37 @@
+<svg width="480" height="270" viewBox="0 0 480 270" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="100%" stop-color="#e2e8f0"/>
+    </linearGradient>
+    <linearGradient id="cardGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#f1f5f9"/>
+    </linearGradient>
+    <style>
+      .header { font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #475569; font-size: 14px; }
+      .value { font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #0f172a; font-size: 20px; font-weight: 600; }
+      .label { font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #64748b; font-size: 12px; }
+      .footer { font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #94a3b8; font-size: 11px; }
+    </style>
+  </defs>
+  <rect x="0" y="0" width="480" height="270" fill="url(#bgGradient)" rx="16"/>
+  <g transform="translate(20, 20)"><image href="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTc3Ljg5MyIgaGVpZ2h0PSIzMS4zNTgiIHZpZXdCb3g9IjAgMCAxNzcuODkzIDMxLjM1OCIgZmlsbD0iI0U0MjgyOSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8cG9seWxpbmUgcG9pbnRzPSIwLDI5LjY4OCAxOC4xMjUsMjkuNjg4IDIwLjAzOCwyNS4yMTUgMTEuNDA4LDI1LjIxNSAyMS4zMTEsMi4xMzEgOC44NjEsMi4xMzEgNi44OTMsNi43MTkgOS44NDUsNi43MTkgMCwyOS42ODgiLz4KICA8cGF0aCBkPSJtIDI0LjQ5NiwyLjEyNCBoIDguNjI3IGMgLTAuODEsNC4zNDMgLTMuOTM3LDkuMTQ4IC0xMC4wNzQsMTAuNTk2IDEuMSwtMi40MjkgMS44ODIsLTQuMzk5IDIuNTIsLTUuOTY0IGggLTMuMDcgbCAxLjk5NywtNC42MzIiLz4KICA8cG9seWxpbmUgcG9pbnRzPSI1MC43MjgsMCA0NS4yODMsMCA0NC4zLDIuMjM0IDM3LjA2MywyLjIzNCAzNS4xNSw2Ljc2NSAzOC4xMDMsNi43NjUgMjguMzE4LDI5LjY5IDQ2LjA5NSwyOS42OSA0OC4wNjMsMjUuMTYxIDM5LjM3NywyNS4xNjEgNDIuNzM2LDE3LjM2NiA1MS40MjMsMTcuMzY2IDUzLjE2MSwxMy4yNCA0NC41MywxMy4yNCA0Ny4zMTEsNi44MTkgNTUuOTM4LDYuODE5IDU3Ljg1LDIuMjkyIDQ5Ljc0MywyLjI5MiA1MC43MjgsMCIvPgogIDxwYXRoIGQ9Im0gNzEuNzg0LDYuMzc3IGMgMi4wNjYsLTAuMDkgNC4wOTQsMS4yNzIgMy4zMTQsMy4xOTEgbCAtNi4yMzcsMTQuNjE5IC0xLjQxOCwtMi4zMTQgLTMuNDYsMS45MTkgMC44NSwxLjMwMSBjIC0zLjAwOCwwIC0yLjQ5MiwtMi40ODQgLTEuNzU1LC0zLjg5NiBMIDY4LjUyMSw4LjQ5MiBjIDAuNjM3LC0xLjQyOSAxLjk2LC0yLjA2MSAzLjI2MywtMi4xMTUgViAyIEMgNjIuNzE4LDIuMDYzIDU4Ljg4LDguNjA4IDU2Ljc3OSwxMy4wNjQgYyAtNi4wMTEsMTIuNzYxIDMuNTUyLDE2LjU0MyA1LjcyOSwxNi45MzggMS4yNDcsMC4yMjUgMy43NDIsMC4yMjUgNC45OTIsMCBsIDAuNzkzLDEuMzU1IEggNzMgbCAtMS41ODcsLTIuNDMgQyA3NC45MywyOC43MDIgNzkuMDcsMjMuOTAzIDgwLjg4NSwyMC4wNjUgODIuNywxNi4yMjggODguMDEsMi4zIDcxLjc4NCwyIHYgNC4zNzciLz4KICA8cGF0aCBkPSJNIDEwMC41MjksMi4xOTcgSCA4OC41NCBsIC0xLjk2OSw0LjUxNyBoIDMuMDY5IGwgLTUuNjc0LDEzLjM3OCBjIC0yLjMxNiw1LjA1NSAxLjA0Miw5LjcwNyA4LjUxMiw5Ljc2OSA3LjcsMC4wNjUgMTAuMzA4LC00LjcxNCAxMS4xMTksLTYuNzAyIGwgOC45MiwtMjAuOTYxIGggLTQuOTI0IGwgLTguOTE4LDIwLjczNSBjIC0xLjU2NCwzLjA2NiAtOC41MTIsMi43ODUgLTYuNTQ1LC0xLjEzNSBsIDguMzk5LC0xOS42MDEiLz4KICA8cG9seWxpbmUgcG9pbnRzPSIxMjcuMzk1LDIuMjYzIDExNS42NDIsMi4yNjMgMTEzLjczLDYuNzUgMTE2LjMzNSw2Ljc1IDEwNi41NSwyOS43NDQgMTE1LjUyNSwyOS43NDQgMTI3LjM5NSwyLjI2MyIvPgogIDxwYXRoIGQ9Im0gMTQyLjMxNyw2LjcyNCBoIDEuMTIgYyAyLjI1OSwwIDAuOTI2LDQuNTI2IDAuNTIxLDUuMzI3IC0wLjQwNSwwLjgwMSAtMS41NjMsMy40OTQgLTMuMzAxLDMuNDk0IGggLTMuNzA2IGwgMy44MjMsLTguODIxIGggMS41NDMgViAyLjI1OCBoIC0xMS42MTggbCAtMiw0LjQ2NSBoIDMuMTU2IGwgLTkuNzI5LDIyLjk2NCBoIDguOTc3IGwgNC4wNTEsLTkuNTYzIGggOC45MjEgYyA0LjIyNiwwIDcuMjE3LC00LjE2NSA4LjYyNiwtNy43ODggMS40NDksLTMuNzIzIDAuNDY2LC0xMC4wNzggLTUuMzI1LC0xMC4wNzggaCAtNS4wNTkgdiA0LjQ2NiIvPgogIDxwb2x5bGluZSBwb2ludHM9IjE3Ny44OTMsMi4wOTIgMTU2LjYzOCwyLjA5MiAxNTQuNjQ0LDYuNzYgMTU3Ljg4Niw2Ljc2IDE0OC4xMjcsMjkuNTczIDE2Ni4wNzcsMjkuNTczIDE2Ny44NzQsMjUuNDg2IDE1OC43MjMsMjUuNDg2IDE2Mi4xNDEsMTcuNDk1IDE3MS4yOTIsMTcuNDk1IDE3My4wODUsMTMuMjkzIDE2My45MzUsMTMuMjkzIDE2Ni43NzMsNi43MjkgMTc1Ljg2Miw2LjcyOSAxNzcuODkzLDIuMDkyIi8+Cjwvc3ZnPg==" width="284" height="50"/></g>
+  <g transform="translate(20, 100)"><text x="0" y="0" class="header">https://www.lequipe.fr</text></g>
+  <g transform="translate(20, 120)">
+    <g>
+      <rect width="210" height="70" rx="12" fill="url(#cardGradient)" stroke="#e2e8f0"/>
+      <text x="15" y="30" class="value">108 millions</text>
+      <text x="15" y="50" class="label">de visiteurs mensuels</text>
+    </g>
+    <g transform="translate(230, 0)">
+      <rect width="210" height="70" rx="12" fill="url(#cardGradient)" stroke="#e2e8f0"/>
+      <text x="15" y="30" class="value">423 millions</text>
+      <text x="15" y="50" class="label">de pages vues par mois</text>
+    </g>
+  </g>
+  <g transform="translate(0, 200)">
+    <text x="240" y="30" class="footer" text-anchor="middle">Source ACPM: classement des sites et applications d'information générale.</text>
+    <text x="240" y="44" class="footer" text-anchor="middle">Moyenne pour juin 2026. Mise à jour: juillet 2026</text>
+  </g>
+</svg>

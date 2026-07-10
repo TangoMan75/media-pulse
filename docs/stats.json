@@ -1,0 +1,492 @@
+[
+  {
+    "id": "lemonde",
+    "title": "Le Monde",
+    "website": "https://www.lemonde.fr",
+    "url": "https://www.acpm.fr/les-membres/support/209788754-1-1/lemonde-fr",
+    "lastUpdated": "2026-07-10T12:34:52.335Z",
+    "metrics": [
+      {
+        "period": "2026-06",
+        "visits": 124423819,
+        "pages": 335694929
+      },
+      {
+        "period": "2026-05",
+        "visits": 126951534,
+        "pages": 333986271
+      },
+      {
+        "period": "2026-04",
+        "visits": 149401793,
+        "pages": 387683285
+      },
+      {
+        "period": "2026-03",
+        "visits": 214316867,
+        "pages": 556432131
+      },
+      {
+        "period": "2026-02",
+        "visits": 145462738,
+        "pages": 358013047
+      },
+      {
+        "period": "2026-01",
+        "visits": 168334764,
+        "pages": 419646747
+      },
+      {
+        "period": "2025-12",
+        "visits": 130354346,
+        "pages": 338521421
+      },
+      {
+        "period": "2025-11",
+        "visits": 111285122,
+        "pages": 320995035
+      },
+      {
+        "period": "2025-10",
+        "visits": 143160198,
+        "pages": 395776082
+      },
+      {
+        "period": "2025-09",
+        "visits": 132759770,
+        "pages": 378332825
+      },
+      {
+        "period": "2025-08",
+        "visits": 123485879,
+        "pages": 309524383
+      },
+      {
+        "period": "2025-07",
+        "visits": 122733242,
+        "pages": 329645686
+      }
+    ]
+  },
+  {
+    "id": "obs",
+    "title": "Nouvel Observateur",
+    "website": "https://www.nouvelobs.com",
+    "url": "https://www.acpm.fr/les-membres/support/2195865741-1-1/nouvelobs-com",
+    "lastUpdated": "2026-07-10T12:34:53.958Z",
+    "metrics": [
+      {
+        "period": "2026-06",
+        "visits": 12188176,
+        "pages": 30816312
+      },
+      {
+        "period": "2026-05",
+        "visits": 12640825,
+        "pages": 32919310
+      },
+      {
+        "period": "2026-04",
+        "visits": 14053901,
+        "pages": 32932467
+      },
+      {
+        "period": "2026-03",
+        "visits": 15039812,
+        "pages": 36080426
+      },
+      {
+        "period": "2026-02",
+        "visits": 15086002,
+        "pages": 36009356
+      },
+      {
+        "period": "2026-01",
+        "visits": 17122319,
+        "pages": 40869345
+      },
+      {
+        "period": "2025-12",
+        "visits": 17629785,
+        "pages": 40624615
+      },
+      {
+        "period": "2025-11",
+        "visits": 17152666,
+        "pages": 40206183
+      },
+      {
+        "period": "2025-10",
+        "visits": 20086265,
+        "pages": 43481857
+      },
+      {
+        "period": "2025-09",
+        "visits": 16028054,
+        "pages": 37671525
+      },
+      {
+        "period": "2025-08",
+        "visits": 13774494,
+        "pages": 32222166
+      },
+      {
+        "period": "2025-07",
+        "visits": 13485089,
+        "pages": 31761362
+      }
+    ]
+  },
+  {
+    "id": "telerama",
+    "title": "Télérama",
+    "website": "https://www.telerama.fr",
+    "url": "https://www.acpm.fr/les-membres/support/2760865027-1-1/telerama-fr",
+    "lastUpdated": "2026-07-10T12:34:55.583Z",
+    "metrics": [
+      {
+        "period": "2026-06",
+        "visits": 10135387,
+        "pages": 19899713
+      },
+      {
+        "period": "2026-05",
+        "visits": 11550065,
+        "pages": 22533920
+      },
+      {
+        "period": "2026-04",
+        "visits": 12214199,
+        "pages": 22997851
+      },
+      {
+        "period": "2026-03",
+        "visits": 12819881,
+        "pages": 24110307
+      },
+      {
+        "period": "2026-02",
+        "visits": 12378546,
+        "pages": 23172625
+      },
+      {
+        "period": "2026-01",
+        "visits": 13191269,
+        "pages": 25607458
+      },
+      {
+        "period": "2025-12",
+        "visits": 11897570,
+        "pages": 23113638
+      },
+      {
+        "period": "2025-11",
+        "visits": 11545862,
+        "pages": 22651098
+      },
+      {
+        "period": "2025-10",
+        "visits": 11495893,
+        "pages": 22608404
+      },
+      {
+        "period": "2025-09",
+        "visits": 10986021,
+        "pages": 21448437
+      },
+      {
+        "period": "2025-08",
+        "visits": 8695770,
+        "pages": 17508983
+      },
+      {
+        "period": "2025-07",
+        "visits": 8701186,
+        "pages": 17591673
+      }
+    ]
+  },
+  {
+    "id": "courrier",
+    "title": "Courrier International",
+    "website": "https://www.courrierinternational.com",
+    "url": "https://www.acpm.fr/les-membres/support/66163995-1-1/courrierinternational-com",
+    "lastUpdated": "2026-07-10T12:34:57.157Z",
+    "metrics": [
+      {
+        "period": "2026-06",
+        "visits": 7313747,
+        "pages": 12488600
+      },
+      {
+        "period": "2026-05",
+        "visits": 7248394,
+        "pages": 12273583
+      },
+      {
+        "period": "2026-04",
+        "visits": 10851066,
+        "pages": 16908049
+      },
+      {
+        "period": "2026-03",
+        "visits": 14852448,
+        "pages": 22475761
+      },
+      {
+        "period": "2026-02",
+        "visits": 12839670,
+        "pages": 18984018
+      },
+      {
+        "period": "2026-01",
+        "visits": 11954877,
+        "pages": 18524109
+      },
+      {
+        "period": "2025-12",
+        "visits": 11030219,
+        "pages": 16850499
+      },
+      {
+        "period": "2025-11",
+        "visits": 7056730,
+        "pages": 12186479
+      },
+      {
+        "period": "2025-10",
+        "visits": 7812796,
+        "pages": 13473968
+      },
+      {
+        "period": "2025-09",
+        "visits": 8334509,
+        "pages": 14149503
+      },
+      {
+        "period": "2025-08",
+        "visits": 8274571,
+        "pages": 13654025
+      },
+      {
+        "period": "2025-07",
+        "visits": 7056771,
+        "pages": 12201579
+      }
+    ]
+  },
+  {
+    "id": "diplo",
+    "title": "Le Monde Diplomatique",
+    "website": "https://www.monde-diplomatique.fr",
+    "url": "https://www.acpm.fr/les-membres/support/2826009072-1-1/monde-diplomatique-fr",
+    "lastUpdated": "2026-07-10T12:34:58.735Z",
+    "metrics": [
+      {
+        "period": "2026-06",
+        "visits": 485974,
+        "pages": 941297
+      },
+      {
+        "period": "2026-05",
+        "visits": 536501,
+        "pages": 966902
+      },
+      {
+        "period": "2026-04",
+        "visits": 600093,
+        "pages": 1093970
+      },
+      {
+        "period": "2026-03",
+        "visits": 698086,
+        "pages": 1284864
+      },
+      {
+        "period": "2026-02",
+        "visits": 544310,
+        "pages": 1033294
+      },
+      {
+        "period": "2026-01",
+        "visits": 687019,
+        "pages": 1352457
+      },
+      {
+        "period": "2025-12",
+        "visits": 596040,
+        "pages": 1143993
+      },
+      {
+        "period": "2025-11",
+        "visits": 576912,
+        "pages": 1137771
+      },
+      {
+        "period": "2025-10",
+        "visits": 622091,
+        "pages": 1224392
+      },
+      {
+        "period": "2025-09",
+        "visits": 571171,
+        "pages": 1098264
+      },
+      {
+        "period": "2025-08",
+        "visits": 510751,
+        "pages": 1010462
+      },
+      {
+        "period": "2025-07",
+        "visits": 482421,
+        "pages": 953084
+      }
+    ]
+  },
+  {
+    "id": "20minutes",
+    "title": "20 Minutes",
+    "website": "https://www.20minutes.fr",
+    "url": "https://www.acpm.fr/les-membres/support/3123034036-1-1/20minutes-fr",
+    "lastUpdated": "2026-07-10T12:35:00.302Z",
+    "metrics": [
+      {
+        "period": "2026-06",
+        "visits": 94810569,
+        "pages": 197168463
+      },
+      {
+        "period": "2026-05",
+        "visits": 101031487,
+        "pages": 192818367
+      },
+      {
+        "period": "2026-04",
+        "visits": 104698072,
+        "pages": 203454377
+      },
+      {
+        "period": "2026-03",
+        "visits": 121710131,
+        "pages": 252742947
+      }
+    ]
+  },
+  {
+    "id": "lequipe",
+    "title": "L'Équipe",
+    "website": "https://www.lequipe.fr",
+    "url": "https://www.acpm.fr/les-membres/support/3259181705-1-1/l-equipe-fr",
+    "lastUpdated": "2026-07-10T12:35:01.868Z",
+    "metrics": [
+      {
+        "period": "2026-06",
+        "visits": 108725052,
+        "pages": 423312781
+      },
+      {
+        "period": "2026-05",
+        "visits": 92281662,
+        "pages": 405629023
+      },
+      {
+        "period": "2026-04",
+        "visits": 82011472,
+        "pages": 374501604
+      },
+      {
+        "period": "2026-03",
+        "visits": 87723806,
+        "pages": 393126037
+      }
+    ]
+  },
+  {
+    "id": "lefigaro",
+    "title": "Le Figaro",
+    "website": "https://www.lefigaro.fr",
+    "url": "https://www.acpm.fr/les-membres/support/2995709208-1-1/lefigaro-fr",
+    "lastUpdated": "2026-07-10T12:35:03.437Z",
+    "metrics": [
+      {
+        "period": "2026-06",
+        "visits": 162894665,
+        "pages": 333617023
+      },
+      {
+        "period": "2026-05",
+        "visits": 159014157,
+        "pages": 340972339
+      },
+      {
+        "period": "2026-04",
+        "visits": 174869224,
+        "pages": 360247621
+      },
+      {
+        "period": "2026-03",
+        "visits": 211101014,
+        "pages": 431842384
+      }
+    ]
+  },
+  {
+    "id": "leparisien",
+    "title": "Le Parisien",
+    "website": "https://www.leparisien.fr",
+    "url": "https://www.acpm.fr/les-membres/support/4191553381-1-1/leparisien-fr",
+    "lastUpdated": "2026-07-10T12:35:05.440Z",
+    "metrics": [
+      {
+        "period": "2026-06",
+        "visits": 61362692,
+        "pages": 99756069
+      },
+      {
+        "period": "2026-05",
+        "visits": 59261286,
+        "pages": 94656332
+      },
+      {
+        "period": "2026-04",
+        "visits": 69122329,
+        "pages": 110171234
+      },
+      {
+        "period": "2026-03",
+        "visits": 87046252,
+        "pages": 139329377
+      }
+    ]
+  },
+  {
+    "id": "ouest-france",
+    "title": "Ouest-France",
+    "website": "https://www.ouest-france.fr",
+    "url": "https://www.acpm.fr/les-membres/support/3783111651-1-1/ouest-france-fr",
+    "lastUpdated": "2026-07-10T12:35:07.016Z",
+    "metrics": [
+      {
+        "period": "2026-06",
+        "visits": 194405688,
+        "pages": 400297396
+      },
+      {
+        "period": "2026-05",
+        "visits": 210337019,
+        "pages": 435354415
+      },
+      {
+        "period": "2026-04",
+        "visits": 201032683,
+        "pages": 427474747
+      },
+      {
+        "period": "2026-03",
+        "visits": 235842428,
+        "pages": 503279325
+      }
+    ]
+  }
+]
