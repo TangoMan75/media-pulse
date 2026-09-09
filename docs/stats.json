@@ -4,8 +4,13 @@
     "title": "Le Monde",
     "website": "https://www.lemonde.fr",
     "url": "https://www.acpm.fr/les-membres/support/209788754-1-1/lemonde-fr",
-    "lastUpdated": "2026-08-09T01:19:46.610Z",
+    "lastUpdated": "2026-09-09T02:49:33.455Z",
     "metrics": [
+      {
+        "period": "2026-08",
+        "visits": 95462836,
+        "pages": 261525068
+      },
       {
         "period": "2026-06",
         "visits": 124423819,
@@ -60,11 +65,6 @@
         "period": "2025-08",
         "visits": 123485879,
         "pages": 309524383
-      },
-      {
-        "period": "2025-07",
-        "visits": 122733242,
-        "pages": 329645686
       }
     ]
   },
@@ -73,8 +73,13 @@
     "title": "Nouvel Observateur",
     "website": "https://www.nouvelobs.com",
     "url": "https://www.acpm.fr/les-membres/support/2195865741-1-1/nouvelobs-com",
-    "lastUpdated": "2026-08-09T01:19:48.535Z",
+    "lastUpdated": "2026-09-09T02:49:35.620Z",
     "metrics": [
+      {
+        "period": "2026-08",
+        "visits": 10502817,
+        "pages": 27685024
+      },
       {
         "period": "2026-06",
         "visits": 12188176,
@@ -129,11 +134,6 @@
         "period": "2025-08",
         "visits": 13774494,
         "pages": 32222166
-      },
-      {
-        "period": "2025-07",
-        "visits": 13485089,
-        "pages": 31761362
       }
     ]
   },
@@ -142,8 +142,13 @@
     "title": "Télérama",
     "website": "https://www.telerama.fr",
     "url": "https://www.acpm.fr/les-membres/support/2760865027-1-1/telerama-fr",
-    "lastUpdated": "2026-08-09T01:19:50.435Z",
+    "lastUpdated": "2026-09-09T02:49:37.730Z",
     "metrics": [
+      {
+        "period": "2026-08",
+        "visits": 8592209,
+        "pages": 17385695
+      },
       {
         "period": "2026-06",
         "visits": 10135387,
@@ -198,11 +203,6 @@
         "period": "2025-08",
         "visits": 8695770,
         "pages": 17508983
-      },
-      {
-        "period": "2025-07",
-        "visits": 8701186,
-        "pages": 17591673
       }
     ]
   },
@@ -211,8 +211,13 @@
     "title": "Courrier International",
     "website": "https://www.courrierinternational.com",
     "url": "https://www.acpm.fr/les-membres/support/66163995-1-1/courrierinternational-com",
-    "lastUpdated": "2026-08-09T01:19:52.311Z",
+    "lastUpdated": "2026-09-09T02:49:39.880Z",
     "metrics": [
+      {
+        "period": "2026-08",
+        "visits": 7860842,
+        "pages": 13121841
+      },
       {
         "period": "2026-06",
         "visits": 7313747,
@@ -267,11 +272,6 @@
         "period": "2025-08",
         "visits": 8274571,
         "pages": 13654025
-      },
-      {
-        "period": "2025-07",
-        "visits": 7056771,
-        "pages": 12201579
       }
     ]
   },
@@ -349,8 +349,13 @@
     "title": "20 Minutes",
     "website": "https://www.20minutes.fr",
     "url": "https://www.acpm.fr/les-membres/support/3123034036-1-1/20minutes-fr",
-    "lastUpdated": "2026-08-09T01:19:56.215Z",
+    "lastUpdated": "2026-09-09T02:49:44.034Z",
     "metrics": [
+      {
+        "period": "2026-08",
+        "visits": 90315915,
+        "pages": 179914860
+      },
       {
         "period": "2026-06",
         "visits": 94810569,
@@ -378,8 +383,13 @@
     "title": "L'Équipe",
     "website": "https://www.lequipe.fr",
     "url": "https://www.acpm.fr/les-membres/support/3259181705-1-1/l-equipe-fr",
-    "lastUpdated": "2026-08-09T01:19:58.078Z",
+    "lastUpdated": "2026-09-09T02:49:45.770Z",
     "metrics": [
+      {
+        "period": "2026-08",
+        "visits": 73352903,
+        "pages": 294345869
+      },
       {
         "period": "2026-06",
         "visits": 108725052,
@@ -407,8 +417,13 @@
     "title": "Le Figaro",
     "website": "https://www.lefigaro.fr",
     "url": "https://www.acpm.fr/les-membres/support/2995709208-1-1/lefigaro-fr",
-    "lastUpdated": "2026-08-09T01:19:59.938Z",
+    "lastUpdated": "2026-09-09T02:49:47.502Z",
     "metrics": [
+      {
+        "period": "2026-08",
+        "visits": 125935914,
+        "pages": 256693306
+      },
       {
         "period": "2026-06",
         "visits": 162894665,
@@ -436,8 +451,13 @@
     "title": "Le Parisien",
     "website": "https://www.leparisien.fr",
     "url": "https://www.acpm.fr/les-membres/support/4191553381-1-1/leparisien-fr",
-    "lastUpdated": "2026-08-09T01:20:01.808Z",
+    "lastUpdated": "2026-09-09T02:49:49.239Z",
     "metrics": [
+      {
+        "period": "2026-08",
+        "visits": 61913188,
+        "pages": 96312719
+      },
       {
         "period": "2026-06",
         "visits": 61362692,
@@ -465,8 +485,13 @@
     "title": "Ouest-France",
     "website": "https://www.ouest-france.fr",
     "url": "https://www.acpm.fr/les-membres/support/3783111651-1-1/ouest-france-fr",
-    "lastUpdated": "2026-08-09T01:20:03.672Z",
+    "lastUpdated": "2026-09-09T02:49:50.970Z",
     "metrics": [
+      {
+        "period": "2026-08",
+        "visits": 185459284,
+        "pages": 362079013
+      },
       {
         "period": "2026-06",
         "visits": 194405688,

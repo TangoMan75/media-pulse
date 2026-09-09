@@ -21,17 +21,17 @@
   <g transform="translate(20, 120)">
     <g>
       <rect width="210" height="70" rx="12" fill="url(#cardGradient)" stroke="#1f2937"/>
-      <text x="15" y="30" class="value">94 millions</text>
+      <text x="15" y="30" class="value">90 millions</text>
       <text x="15" y="50" class="label">de visiteurs mensuels</text>
     </g>
     <g transform="translate(230, 0)">
       <rect width="210" height="70" rx="12" fill="url(#cardGradient)" stroke="#1f2937"/>
-      <text x="15" y="30" class="value">197 millions</text>
+      <text x="15" y="30" class="value">179 millions</text>
       <text x="15" y="50" class="label">de pages vues par mois</text>
     </g>
   </g>
   <g transform="translate(0, 200)">
     <text x="240" y="30" class="footer" text-anchor="middle">Source ACPM: classement des sites et applications d'information générale.</text>
-    <text x="240" y="44" class="footer" text-anchor="middle">Moyenne pour juin 2026. Mise à jour: août 2026</text>
+    <text x="240" y="44" class="footer" text-anchor="middle">Moyenne pour août 2026. Mise à jour: septembre 2026</text>
   </g>
 </svg>
